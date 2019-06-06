@@ -1,7 +1,9 @@
 # unimelb-exam-to-ics
 Python utility that scrapes the University of Melbourne exam timetable website to generate an ICS file.
 
-## This utility is licensed under the MIT license.
+### How to use:
+Download and run `parse.py`. 
+Dependencies are in `requirements.txt`.
 
 ```
 MIT License
