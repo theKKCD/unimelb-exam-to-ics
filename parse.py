@@ -1,3 +1,7 @@
+# Unimelb exam timetable generator by theKKCD, 2019. 
+# Current as of June 2019.
+# Licensed under MIT.
+
 # fetch and parse
 import requests
 from bs4 import BeautifulSoup
